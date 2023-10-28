@@ -2,11 +2,11 @@
 
 ### TechLab
 
-+ [CPP_Learning](https://github.com/ijliu/CPP_Learning.git)
++ [CPP_Learning](https://github.com/ijliu/CPP_Learning)
 
 ### Toolkits
 
-+ [DatasetConverter](https://github.com/ijliu/DatasetConverter.git)
++ [DatasetConverter](https://github.com/ijliu/DatasetConverter)
 
 ### Github Stats 👋
 <p>
